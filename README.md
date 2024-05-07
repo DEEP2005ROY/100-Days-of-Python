@@ -21,6 +21,17 @@ This program is a great way to create secure, random passwords that can be used 
 
 This is a Python-based implementation of the classic game, Hangman. The game selects a random word from a list and the player's goal is to guess the word, one letter at a time. The player starts with 6 lives and loses a life for each incorrect guess. The game ends when the player either correctly guesses the word before running out of lives, or loses all their lives without guessing the word. The repository contains the main game script (`hangman.py`), a list of possible words (`hangman_words.py`), and ASCII art for the hangman and game logo (`hangman_art.py`). This game is a fun and interactive way to test your vocabulary and guessing skills. Enjoy playing!
 
+
+3.Blackjack Game:
+
+"Blackjack Console Game" is a simplified, text-based version of the popular casino card game, Blackjack. The game is played in the console and is designed for a single player competing against a computer dealer.
+
+In this game, the player and the dealer are each dealt two cards to start. The player then has the option to draw additional cards to try and get their hand as close to 21 as possible without going over. The dealer draws cards until their hand totals 17 or more. If a player or dealer's hand exceeds 21, they "bust" and automatically lose the game. If neither busts, the hand with the highest total wins. Special rules apply for a starting hand of an Ace and a 10-point card, known as "Blackjack".
+
+The game uses an unlimited deck with no jokers, and face cards (Jack, Queen, King) are all worth 10 points. The Ace can be worth either 11 or 1 point, depending on what is more beneficial for the hand.
+
+The game continues as long as the player chooses to start a new round. Enjoy this fun and engaging console-based card game! 😊
+
 ... and more to come!
 
 ## Installation and Setup
