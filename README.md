@@ -32,6 +32,14 @@ The game uses an unlimited deck with no jokers, and face cards (Jack, Queen, Kin
 
 The game continues as long as the player chooses to start a new round. Enjoy this fun and engaging console-based card game! 😊
 
+
+
+
+4.Pong game:
+
+Pong is a classic arcade game, reimagined in Python. It’s a two-player game where each player controls a paddle by dragging it up and down to hit a ball back and forth. The objective is to make your opponent miss the ball. The game is simple yet challenging, providing endless fun and excitement.
+
+
 ... and more to come!
 
 ## Installation and Setup
