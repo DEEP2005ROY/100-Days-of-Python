@@ -43,6 +43,8 @@ Pong is a classic arcade game, reimagined in Python. It’s a two-player game wh
 
 In this game, you control a turtle that wants to cross a busy road. The objective is to move the turtle safely to the other side while avoiding oncoming cars. As you progress, the game becomes more challenging with faster-moving cars. Use the Up arrow key to move the turtle upward and reach the finish line. But be careful—colliding with a car means game over! 
 
+6.Price Tracker:
+This Python script tracks the price of a specified product on Amazon and sends an email alert if the price drops below a defined target. By utilizing web scraping with BeautifulSoup and automating email notifications with smtplib, users can stay informed about price changes without manually checking the product page. Ideal for bargain hunters and deal enthusiasts, this script requires a Gmail account for sending alerts and can be customized with user-specific details and target prices.
 
 
 ... and more to come!
